@@ -69,6 +69,10 @@ Real-world data often defies textbook assumptions—always test empirically.
 
 ## Performance Metrics
 
-![Confusion Matrix](images/naive_bayes_cm.png)
+**Confusion Matrix**
 
-![Classification Report](images/naive_bayes_cr.png)
+![Confusion Matrix](../../../images/naive_bayes_cm.png)
+
+**Classification Report**
+
+![Classification Report](../../../images/naive_bayes_cr.png)

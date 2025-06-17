@@ -78,6 +78,10 @@ Kernel selection also played a big part on the algorithm efectiveness and traini
 
 ## Performance Metrics
 
+**Confusion Matrix**
+
 ![Confusion Matrix](../../../images/svm_cm.png)
+
+**Classification Report**
 
 ![Classification Report](../../../images/svm_cr.png)

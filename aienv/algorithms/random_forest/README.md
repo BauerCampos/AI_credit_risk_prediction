@@ -70,6 +70,10 @@ RandomForestClassifier(
 
 ## Performance Metrics
 
-![Confusion Matrix](images/random_forest_cm.png)
+**Confusion Matrix**
 
-![Classification Report](images/random_forest_cr.png)
+![Confusion Matrix](../../../images/random_forest_cm.png)
+
+**Classification Report**
+
+![Classification Report](../../../images/random_forest_cr.png)

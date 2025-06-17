@@ -51,7 +51,7 @@ MLPClassifier(
 
 **Scailing Stability**
 
-Less than 10% of the not scaled database training went past the 35th (ranging from 14 to 50 iterations) iteration which resulted in a very scattered accuracy over the tests made (ranging from ~20% to ~70%), in contrast all of the scaled database training ranged from 200 to 280 iterations with the accuracy ranging from ~92.35% to ~92.55% with outliers going over 300 iterations and achieving ~92.70% accuracy
+Less than 10% of the not scaled database training went past the 35th (ranging from 14 to 50 iterations) iteration which resulted in a very scattered accuracy (ranging from ~20% to ~70%), in contrast all of the scaled database training ranged from 200 to 280 iterations with the accuracy ranging from ~92.35% to ~92.55% with outliers going over 300 iterations and achieving ~92.70% accuracy
 
 |  Scailing  |    Iterations(range)   |  Accuracy(range)  |                    Key Insight                       |
 |------------|------------------------|-------------------|------------------------------------------------------|

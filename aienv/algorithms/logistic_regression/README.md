@@ -65,6 +65,10 @@ Contrary to my expectations the algorithm was very effective dealing with high n
 
 ## Performance Metrics
 
-![Confusion Matrix](images/logistic_regression_cm.png)
+**Confusion Matrix**
 
-![Classification Report](images/logistic_regression_cr.png)
+![Confusion Matrix](../../../images/logistic_regression_cm.png)
+
+**Classification Report**
+
+![Classification Report](../../../images/logistic_regression_cr.png)

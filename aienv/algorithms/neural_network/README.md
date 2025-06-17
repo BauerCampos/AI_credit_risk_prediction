@@ -77,6 +77,10 @@ One-hot performed marginally better with a average ~0.2% accuracy increase over 
 
 ## Performance Metrics
 
-![Confusion Matrix](images/neural_network_cm.png)
+**Confusion Matrix**
 
-![Classification Report](images/neural_network_cr.png)
+![Confusion Matrix](../../../images/neural_network_cm.png)
+
+**Classification Report**
+
+![Classification Report](../../../images/neural_network_cr.png)

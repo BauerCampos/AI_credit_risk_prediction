@@ -51,7 +51,7 @@ Predicting credit risk using machine learning algorithms. Developed as part of m
 |         Model         | Accuracy | Precision | Recall | F1-Score |
 |-----------------------|----------|-----------|--------|----------|
 | Random Forest         |   0.935  |    0.94   |  0.94  |   0.93   |
-| Neural Network        |   0.926  |    0.93   |  0.93  |   0.92   |
+| Neural Network        |   0.927  |    0.93   |  0.93  |   0.92   |
 | SVM                   |   0.910  |    0.91   |  0.91  |   0.90   |
 | KNN                   |   0.900  |    0.90   |  0.90  |   0.89   |
 | Decision Tree         |   0.898  |    0.90   |  0.90  |   0.90   |

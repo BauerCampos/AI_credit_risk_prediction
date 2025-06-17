@@ -72,6 +72,10 @@ In this algorithm training the academical assumption of inverse proportionality 
 
 ## Performance Metrics
 
-![Confusion Matrix](images/knn_cm.png)
+**Confusion Matrix**
 
-![Classification Report](images/knn_cr.png)
+![Confusion Matrix](../../../images/knn_cm.png)
+
+**Classification Report**
+
+![Classification Report](../../../images/knn_cr.png)

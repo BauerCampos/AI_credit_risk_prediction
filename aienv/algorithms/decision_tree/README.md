@@ -66,7 +66,9 @@ Alternatively, one-hot encoding had the best performance as expected since the a
 ## Performance Metrics
 
 **Confusion Matrix**
+
 ![Confusion Matrix](../../../images/decision_tree_cm.png)
 
 **Classification Report**
-![Classification Report](images/decision_tree_cr.png)
+
+![Classification Report](../../../images/decision_tree_cr.png)
